@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { View, StyleSheet, ScrollView, Text, TextInput, Button, Pressable, Alert } from 'react-native';
+import { View, StyleSheet, ScrollView, Text, TextInput, Pressable, Alert } from 'react-native';
 import { useLocalSearchParams, useNavigation } from 'expo-router'
 
 export default EmployeeRecordEdit = () => {
